@@ -1,0 +1,17 @@
+*.class
+*.iml
+.idea/
+.DS_Store
+.tern-project/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#workspace Files
+
+target/
+.settings/
+.classpath/
+.project/
